@@ -23,3 +23,4 @@ Vous allez même vous apercevoir qu'il est tout à fait possible de dépasser le
 <br>
 Nous espérons qu'ATS deviendra rapidement votre compagnion pour des soirées astrophotos réussies :)
 
+[https://github.com/AstrAuDobson/Astro-Target-Selector/blob/main/ATS_ecran_accueil.png]
