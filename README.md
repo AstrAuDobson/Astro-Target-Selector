@@ -1,11 +1,11 @@
-# Bievenus sur la page Github de Astro Target Selector (ATS)
+# Bienvenus sur la page Github de Astro Target Selector (ATS)
 
 ATS est un logiciel dédié à l'astrophoto avec une monture type Alt-Azimutale.
 
 
 ## Principe 
 
-Vous le savez certainement, le temps de pose avec une monture Alt-Azimutale est limitée par la rotation de champ. <br>
+Vous le savez certainement, le temps de pose avec une monture Alt-Azimutale est limité par la rotation de champ. <br>
 
 Or, la rotation de champ n'est pas homogène sur la voute céleste, elle varie en fonction des coordonnées Alt-Az.
 
@@ -17,7 +17,7 @@ Des équations permettent de déterminer le temps de pose maximum en fonction de
 
 ATS va considérer votre lieu d'observation, la date, le capteur de l'imageur et à partir de cela, va vous donner l'évolution du temps de pose sur la soirée (mais pas que). Les objets sont notés du meilleur temps au plus mauvais.  <br>
 
-Plus besoin de passer du temps à chercher le bon temps de pose pour l'objet que vous souhaitez photographier, plus besoin de vous demander quel objet photographier ce soir, ATS se charge de cela pour vous. <br>
+Plus besoin de perdre de longues minutes à chercher le bon temps de pose pour l'objet que vous souhaitez photographier, plus besoin de vous demander quel objet photographier ce soir, ATS se charge de cela pour vous. <br>
 
 Vous allez même vous apercevoir qu'il est tout à fait possible de dépasser les fameuses "30s de temps de pose max" dans de nombreuses situations. La limite sera alors celle de la qualité du suivi sidéral offert part votre monture.<br>
 <br>
